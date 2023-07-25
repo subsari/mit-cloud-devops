@@ -5,7 +5,7 @@ Proof of work screenshots.
 ![alt text](./images/joel-pagan-docker-hub.png "Proof of Work - Docker Hub")
 
 ## Docker Playground
-![alt text](./images/joel-pagan-vs-studio-terminal.png "Proof of Work - Docker Playground")
+![alt text](./images/joel-pagan-docker-playground.png "Proof of Work - Docker Playground")
 
 ## Docker Ghost Instance
 ![alt text](./images/joel-pagan-docker-ghost.png "Proof of Work - Docker Ghost")
